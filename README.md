@@ -1,11 +1,3 @@
-
-=======
-Member-3 [Anik hasan]:
-
-
-Overview of task completion:
-
-
  Member-1 [Abdul Foyez]::
  Overview of task completion:
  Created a GitHub repo.
