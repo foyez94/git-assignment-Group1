@@ -1,4 +1,4 @@
-Member-1 [Abdul Foyez]:
+Member-1 [Abdul Foyez]::
 
 Overview of task completion:
 
