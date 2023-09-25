@@ -3,10 +3,6 @@ Follow these steps to complete the assignment:
 
 Fork this repository: Click the "Fork" button in the upper right-hand corner of the repository's page on GitHub. This will create a copy of the repository in your GitHub account.
 
-Clone your fork: Use the git clone command to clone your forked repository to your local machine.
-
-git clone https://github.com/sumon2016/git-assignment-Group1.git
-Create a branch: Create a new branch to work on your changes. Give your branch a descriptive name that reflects the task you are working on.
 
 git checkout -b feature/add-new-feature
 Make changes: Edit, add, or delete files as necessary to complete the assigned task.
