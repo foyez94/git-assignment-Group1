@@ -1,0 +1,3 @@
+#About me
+
+My name is Abdul Foyez .I am a dedicated professional with a strong passion for cloud computing, and I thoroughly enjoy tackling software development projects. My background in software testing and experience as a cloud operations engineer have equipped me with a unique set of skills that allow me to seamlessly connect the worlds of development and operations. I take pride in ensuring the reliability and efficiency of cloud-based applications, and my commitment to delivering top-notch quality aligns perfectly with my expertise in cloud infrastructure. In the ever-evolving realm of technology, I strive to be a valuable asset by crafting scalable and resilient solutions.
