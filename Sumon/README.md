@@ -1,9 +1,9 @@
 git clone https://github.com/sumon2016/git-assignment-Group1.git \
-ls
-cd git-assignment-Group1/
-git branch
-git branch --list
-git log
+ls \
+cd git-assignment-Group1/ \
+git branch \
+git branch --list \
+git log \
 git branch Sumon_Ahmed_ICDCP_69
 git status
 git checkout Sumon_Ahmed_ICDCP_69
