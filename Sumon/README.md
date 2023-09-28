@@ -1,4 +1,4 @@
-git clone https://github.com/sumon2016/git-assignment-Group1.git
+git clone https://github.com/sumon2016/git-assignment-Group1.git \
 ls
 cd git-assignment-Group1/
 git branch
